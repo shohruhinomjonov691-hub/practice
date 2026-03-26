@@ -1,8 +1,9 @@
 # PRACTICE PROJECT
 
-Learning GIT and Pyhton Foundation 
+Learning GIT and Pyhton Foundation
 
 ## GIT COMMANDS:
+
 ```
 git config --global user.name
 git config --global user.name "your_name"
@@ -17,3 +18,14 @@ git remote add origin https://github_address
 git push origin main
 git pull origin main
 ```
+
+## Python Foundation:
+
+- Primitive Variables
+- Function
+- Object
+- Class
+- Class deep dive
+- Operation & Conditions
+- Loops
+- ...

@@ -1,10 +1,11 @@
 ''' CLASS deep diving
-    (1) ENCAPSULATION
+    (1) ENCAPSULATION <
     (2) INHERITENCE
     (3) POLIMORPHISM
 '''
 
 print("===== ENCAPSULATION =====")
+
 '''
 C++ JAVA > public, private, protected
 PHP TypeScript > public, private, protected
